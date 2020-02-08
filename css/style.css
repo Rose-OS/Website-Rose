@@ -8,7 +8,7 @@ body, html{
     color: #666;
 }
 
-.pimg1, .pimg2, .pimg3
+.pimg1, .pimg2, .pimg3, .pimg4
 {
     position: relative;
     opacity: 0.70;
@@ -41,6 +41,11 @@ body, html{
     min-height: 400px;
 }
 
+.pimg4 
+{
+    background-image:url('../images/rocks_by_lake.jpeg');    
+    min-height: 100%;
+}
 .section
 {
     text-align: center;
