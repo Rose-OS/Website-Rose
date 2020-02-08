@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Sacramento&display=swap');
 body, html{
     height: 100%;
     margin: 0;
@@ -31,7 +30,8 @@ body, html{
 {
     background-image:url('../images/rose.jpg');
     min-height: 100%;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Sacramento', cursive;
+    text-transform: none;
 }
 .pimg2
 {
