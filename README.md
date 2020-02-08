@@ -1,2 +1,3 @@
 # RoseSite
-Website for RoseOS
+
+A website for the Rose operating system.
