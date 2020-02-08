@@ -51,5 +51,9 @@ body, html{
 {
     background-color: #f4f4f4;
     color: #666;
-
+}
+.section-dark
+{
+    background-color: #282e34;
+    color: #ddd;
 }
