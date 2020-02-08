@@ -1,0 +1,2 @@
+# RoseSite
+Website for RoseOS
