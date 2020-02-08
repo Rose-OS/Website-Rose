@@ -7,3 +7,28 @@ body, html{
     line-height: 1.8em;
     color:#666;
 }
+
+.pimg1, .pimg2, .pimg3
+{
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.pimg1
+{
+    background-image:url('../images/rose.jpg');
+    min-height: 100%;
+}
+.pimg2
+{
+    background-image:url('../images/road.jpg');
+    min-height: 400px;
+}
+.pimg3
+{
+    background-image:url('../images/trees.jpg');
+    min-height: 400px;
+}
