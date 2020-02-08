@@ -24,9 +24,8 @@ body, html{
     background-attachment: fixed;
 
 }
-
 .pimg1
-{
+{   
     background-image:url('../images/rose.jpg');
     min-height: 100%;
 }
