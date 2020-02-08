@@ -28,14 +28,8 @@ body, html{
 .pimg1
 {   
     background-image:url('../images/vaporwave_rose.gif');
-<<<<<<< HEAD
     min-height: 120%;
     font-family: 'Dancing Script', cursive;
-=======
-    min-height: 100%;
-    font-family: 'Sacramento', cursive;
-    text-transform: none;
->>>>>>> ee9f0ac21f8c34e1725e6b2be6d170281d8d75cf
 }
 .pimg2
 {
