@@ -25,10 +25,9 @@ body, html{
     background-attachment: fixed;
 
 }
-
 .pimg1
-{
-    background-image:url('../images/rose.jpg');
+{   
+    background-image:url('../images/vaporwave_rose.gif');
     min-height: 100%;
     font-family: 'Sacramento', cursive;
     text-transform: none;
@@ -91,10 +90,3 @@ body, html{
     background-color: transparent;
 }
 
-input[type="checkbox"]
-{
-    position: fixed;
-    z-index: 1;
-    top: 40px;
-    right: 100px;
-}
