@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+
 body, html{
     height: 100%;
     margin: 0;
@@ -28,6 +30,7 @@ body, html{
 {   
     background-image:url('../images/rose.jpg');
     min-height: 100%;
+    font-family: 'Dancing Script', cursive;
 }
 .pimg2
 {
@@ -40,9 +43,9 @@ body, html{
     min-height: 400px;
 }
 
-.pimg4 
+.pimg4
 {
-    background-image:url('../images/rocks_by_lake.jpeg');    
+    background-image:url('../images/rocks_by_lake.jpeg');
     min-height: 100%;
 }
 .section
@@ -85,4 +88,12 @@ body, html{
 .ptext .border.trans
 {
     background-color: transparent;
+}
+
+input[type="checkbox"]
+{
+    position: fixed;
+    z-index: 1;
+    top: 40px;
+    right: 100px;
 }
