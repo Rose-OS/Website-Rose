@@ -90,10 +90,3 @@ body, html{
     background-color: transparent;
 }
 
-input[type="checkbox"]
-{
-    position: fixed;
-    z-index: 1;
-    top: 40px;
-    right: 100px;
-}
