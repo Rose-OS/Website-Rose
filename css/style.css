@@ -90,3 +90,7 @@ body, html{
     background-color: transparent;
 }
 
+img
+{
+    margin: 25px;
+}
