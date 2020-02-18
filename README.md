@@ -8,4 +8,4 @@ A representative and documentative website for Rose-OS and its subsidiary softwa
 
 ## Design Inspiration
 
-Some unaboomer Luke Smith content. (https://lukesmith.xyz/)
+[Some unaboomer Luke Smith content.](https://lukesmith.xyz/)
