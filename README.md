@@ -4,7 +4,7 @@
 
 # [Website-Rose](https://rose-os.github.io/Website-Rose/)
 
-A representative and documentative website for Rose-OS and its subsidiary software.
+A representative and documentative website for [Rose-OS](https://github.com/Rose-OS) and its subsidiary software.
 
 ## Design Inspiration
 
