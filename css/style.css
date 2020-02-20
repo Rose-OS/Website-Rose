@@ -93,3 +93,15 @@ img
 {
 	margin: 25px;
 }
+
+a:link, a:visited {
+  color: white;
+  text-decoration: underline;
+  cursor: auto;
+  text-align: center;
+}
+
+a:link:active, a:visited:active {
+	color: white;
+	text-align: center;
+}
