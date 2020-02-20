@@ -102,5 +102,15 @@ a
 
 a:hover
 {
-   font-weight: bold;
+	font-weight: bold;
+	color: #771F1F;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  text-align: center;
+}
+
+a:link:active, a:visited:active {
+	text-align: center;
 }
