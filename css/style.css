@@ -122,9 +122,3 @@ a:link:active, a:visited:active
 {
 	text-align: center;
 }
-#footer
-{
- position:fixed;
- bottom:0;
- left:0;
-}
