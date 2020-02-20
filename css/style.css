@@ -106,12 +106,3 @@ a:link:active, a:visited:active {
 	text-align: center;
 }
 
-.expand-link:active .icon-expand
-{
-  display: none;
-}
-
-.expand-link:active .icon-contract
-{
-  display: block;
-}
