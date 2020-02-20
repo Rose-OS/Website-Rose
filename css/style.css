@@ -95,14 +95,12 @@ img
 	margin: 25px;
 }
 
-a:link, a:visited {
-  color: white;
-  text-decoration: underline;
-  text-align: center;
+a
+{
+	text-decoration: none;
 }
 
-a:link:active, a:visited:active {
-	color: white;
-	text-align: center;
+a:hover
+{
+   font-weight: bold;
 }
-
