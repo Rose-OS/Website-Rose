@@ -83,6 +83,7 @@ body, html{
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 	padding: 20px;
 	text-align:center;
+	border-radius: 25px;
 }
 .ptext .border.trans
 {
