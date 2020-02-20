@@ -105,3 +105,13 @@ a:link:active, a:visited:active {
 	color: white;
 	text-align: center;
 }
+
+.expand-link:active .icon-expand
+{
+  display: none;
+}
+
+.expand-link:active .icon-contract
+{
+  display: block;
+}
