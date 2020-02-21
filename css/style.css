@@ -7,7 +7,7 @@ body, html{
 	font-family:"Lato", sans-serif;
 	font-weight: 400;
 	line-height: 1.8em;
-	color: pink;
+	color: #FFB6C1;
 }
 
 .pimg1, .pimg2, .pimg3, .pimg4
@@ -56,12 +56,12 @@ body, html{
 .section-light
 {
 	background-color: #f4f4f4;
-	color: pink;
+	color: #FFB6C1;
 }
 .section-dark
 {
 	background-color: #282e34;
-	color: pink;
+	color: #FFB6C1;
 }
 
 .ptext
@@ -79,7 +79,7 @@ body, html{
 .ptext .border
 {
 	background-color: #111;
-	color: pink;
+	color: #FFB6C1;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 	padding: 20px;
 	text-align:center;
@@ -108,7 +108,7 @@ a:hover
 
 a:not(:hover)
 {
-	color: pink;
+	color: #FFB6C1;
 }
 
 a:link, a:visited
