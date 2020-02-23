@@ -7,10 +7,28 @@ body
 	margin: 0;
 	background-color: #d3d3d3;
 }
-
+/* global */
 .container
 {
 	width: 80%;
 	margin: auto;
 	overflow: hidden;
+}
+/* Header */
+
+header
+{
+	background: #3f3f3f;
+	color: #fff;
+	padding-top: 30px;
+	min-height: 70 px;
+	border-bottom: #FFB6C1 5px solid;
+}
+
+header a
+{
+	color: #fff;
+	text-decoration: none;
+	test-tranform: uppercase;
+	font-size: 16px;
 }
