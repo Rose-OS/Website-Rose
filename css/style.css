@@ -70,3 +70,9 @@ header nav
 {
 	float: right;
 }
+
+header .current a
+{
+	color: #d74d63;
+	font-weight: bold;
+}
