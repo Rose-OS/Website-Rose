@@ -1,123 +1,34 @@
-@import url('https://fonts.googleapis.com/css?family=Sacramento&display=swap');
-body, html{
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
-	height: 100%;
+body
+{
+	font: 15px/1.5 "Lato", sans-serif;
+	padding: 0;
 	margin: 0;
+	background-color: #d3d3d3;
+}
+/* global */
+.container
+{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+/* Header */
+
+header
+{
+	background: #3f3f3f;
+	color: #fff;
+	padding-top: 30px;
+	min-height: 70 px;
+	border-bottom: #FFB6C1 5px solid;
+}
+
+header a
+{
+	color: #fff;
+	text-decoration: none;
+	test-tranform: uppercase;
 	font-size: 16px;
-	font-family:"Lato", sans-serif;
-	font-weight: 400;
-	line-height: 1.8em;
-	color: #FFB6C1;
-}
-
-.pimg1, .pimg2, .pimg3, .pimg4
-{
-	position: relative;
-	opacity: 0.70;
-	background-position: center;
-	background-size: cover;
-	background-repeat: no-repeat;
-
-	/*
-	fixed = parallax effect
-	scroll = normal
-	*/
-
-	background-attachment: fixed;
-
-}
-.pimg1
-{
-	background-image:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F5d%2F9e%2F09%2F5d9e0954596a742949482a04d5dab87f.gif&f=1&nofb=1');
-	min-height: 100%;
-}
-.pimg2
-{
-	background-image:url('../images/road.jpg');
-	min-height: 400px;
-}
-.pimg3
-{
-	background-image:url('../images/trees.jpg');
-	min-height: 400px;
-}
-
-.pimg4
-{
-	background-image:url('../images/rocks_by_lake.jpeg');
-	min-height: 100%;
-}
-.section
-{
-	text-align: center;
-	padding: 50px 80px;
-
-}
-.section-light
-{
-	background-color: #f4f4f4;
-	color: #FFB6C1;
-}
-.section-dark
-{
-	background-color: #282e34;
-	color: #FFB6C1;
-}
-
-.ptext
-{
-	position: absolute;
-	top: 50%;
-	width: 100%;
-	text-align: center;
-	color: #000;
-	font-size: 27px;
-	letter-spacing: 8px;
-	text-transform: uppercase;
-}
-
-.ptext .border
-{
-	background-color: #111;
-	color: #FFB6C1;
-	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-	padding: 20px;
-	text-align:center;
-	border-radius: 25px;
-}
-.ptext .border.trans
-{
-	background-color: transparent;
-}
-
-img
-{
-	margin: 25px;
-}
-
-a
-{
-	text-decoration: none;
-}
-
-a:hover
-{
-	font-weight: bold;
-	color: #771F1F;
-}
-
-a:not(:hover)
-{
-	color: #FFB6C1;
-}
-
-a:link, a:visited
-{
-	text-decoration: none;
-	text-align: center;
-}
-
-a:link:active, a:visited:active
-{
-	text-align: center;
 }
