@@ -70,3 +70,37 @@ header nav
 {
 	float: right;
 }
+
+header .current a
+{
+	color: #d74d63;
+	font-weight: bold;
+}
+
+header a:hover
+{
+	color: #ccc;
+	font-weight: bold;
+}
+
+
+/* Showcase */
+#showcase
+{
+	min-height: 400px;
+	background:url('../img/three-red-petaled-rose-flowers-776650.jpg') no-repeat 0 -400px;
+	text-align: center;
+	color: #fff
+}
+
+#showcase h1
+{
+	margin-top: 100px;
+	font-size: 55px;
+	margin-bottom: 10px;
+}
+
+#showcase p
+{
+	font-size: 20px;
+}
