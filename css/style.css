@@ -140,3 +140,16 @@ header a:hover
 	border-radius: 20px;
 	float: right;
 }
+
+#qualities
+{
+	margin-top: 20px;
+}
+
+#qualities .box
+{
+	float: left;
+	text-align: center;
+	width: 30%;
+	padding: 10px;
+}
