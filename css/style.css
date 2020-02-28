@@ -95,7 +95,13 @@ header a:hover
 	font-weight: bold;
 }
 
+/* menubar */
 
+#menubar
+{
+	position: fixed;
+	/* When scrolling, menu bar stays on screen */
+}
 /* Showcase */
 #showcase
 {
