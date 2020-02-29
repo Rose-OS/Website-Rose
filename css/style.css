@@ -22,7 +22,7 @@ ul
 }
 
 .button {
-  background-color: #d74d63;
+  background-color: #FF007f;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -41,7 +41,7 @@ header
 	color: #fff;
 	padding-top: 30px;
 	min-height: 70 px;
-	border-bottom: #d74d63 5px solid;
+	border-bottom: #FF007f 5px solid;
 }
 
 header a
@@ -85,7 +85,7 @@ header nav
 
 header .current a
 {
-	color: #d74d63;
+	color: #FF007F;
 	font-weight: bold;
 }
 
@@ -97,11 +97,7 @@ header a:hover
 
 /* menubar */
 
-#menubar
-{
-	position: fixed;
-	/* When scrolling, menu bar stays on screen */
-}
+
 /* Showcase */
 #showcase
 {
