@@ -21,7 +21,8 @@ ul
 	padding: 0;
 }
 
-.button {
+.button
+{
   background-color: #FF007f;
   border: none;
   color: white;
@@ -51,8 +52,6 @@ header a
 	test-tranform: uppercase;
 	font-size: 20px;
 }
-
-
 
 header li
 {
@@ -94,8 +93,6 @@ header a:hover
 	color: #ccc;
 	font-weight: bold;
 }
-
-/* menubar */
 
 
 /* Showcase */
